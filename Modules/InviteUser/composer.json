@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/inviteuser",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\InviteUser\\Providers\\InviteUserServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\InviteUser\\": ""
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Outlet",
+    "alias": "Outlet",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Outlet\\Providers\\OutletServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

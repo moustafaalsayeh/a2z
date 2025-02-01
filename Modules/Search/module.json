@@ -1,0 +1,13 @@
+{
+    "name": "Search",
+    "alias": "search",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Search\\Providers\\SearchServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

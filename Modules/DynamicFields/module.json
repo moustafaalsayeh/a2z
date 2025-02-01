@@ -1,0 +1,13 @@
+{
+    "name": "DynamicFields",
+    "alias": "dynamicfields",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\DynamicFields\\Providers\\DynamicFieldsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

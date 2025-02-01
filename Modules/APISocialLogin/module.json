@@ -1,0 +1,13 @@
+{
+    "name": "APISocialLogin",
+    "alias": "apisociallogin",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\APISocialLogin\\Providers\\APISocialLoginServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

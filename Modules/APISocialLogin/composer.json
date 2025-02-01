@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/apisociallogin",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\APISocialLogin\\Providers\\APISocialLoginServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\APISocialLogin\\": ""
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/apiauth",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\APIAuth\\Providers\\APIAuthServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\APIAuth\\": ""
+        }
+    }
+}

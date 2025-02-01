@@ -1,0 +1,13 @@
+{
+    "name": "APIAuth",
+    "alias": "apiauth",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\APIAuth\\Providers\\APIAuthServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

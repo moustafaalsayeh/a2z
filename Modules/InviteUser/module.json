@@ -1,0 +1,13 @@
+{
+    "name": "InviteUser",
+    "alias": "inviteuser",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\InviteUser\\Providers\\InviteUserServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
